@@ -11,6 +11,7 @@ pycaffe/alexnet/*.prototxt
 pycaffe/alexnet/synset_words.txt
 pycaffe/googlenet/*.prototxt
 pycaffe/googlenet/synset_words.txt
+pycaffe/fcn/*.prototxt
 *.caffemodel
 *.solverstate
 
