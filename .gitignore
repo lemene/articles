@@ -3,3 +3,10 @@
 *.exe
 *~
 *.out
+
+# pycaffe
+*_lmdb
+pycaffe/mnist/*.prototxt
+*.caffemodel
+*.solverstate
+
