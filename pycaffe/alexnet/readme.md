@@ -1,12 +1,12 @@
-# ¸ÅÊö
-Ê¹ÓÃpycaffe²Ù×÷alexnet£¬Ä£ĞÍÊı¾İÎ»ÓÚCAFFE/models/bvlc_alexnet
+# æ¦‚è¿°
+ä½¿ç”¨pycaffeæ“ä½œalexnetï¼Œæ¨¡å‹æ•°æ®ä½äºCAFFE/models/bvlc_alexnetã€‚
 
-#ÎÄ¼ş½éÉÜ
-+ predict.py: ÑİÊ¾Ê¹ÓÃÍøÂçÔ¤²âÍ¼Æ¬¡£
-+ test.jpg: ÍøÂçÉÏËÑË÷µÄÍ¼Æ¬
+#æ–‡ä»¶ä»‹ç»
++ predict.py: æ¼”ç¤ºä½¿ç”¨ç½‘ç»œé¢„æµ‹å›¾ç‰‡ã€‚
++ test.jpg: ç½‘ç»œä¸Šæœç´¢çš„å›¾ç‰‡
 
-+ bvlc_alexnet.caffemodel: Ä£ĞÍ²ÎÊı£¬²Î¿¼CAFFE/models/bvlc_alexnet/readme.md
-+ deploy.prototxt: ¿½±´CAFFE/models/bvlc_alexnet/deploy.prototxt
-+ solver.prototxt: ¿½±´CAFFE/models/bvlc_alexnet/solver.prototxt
-+ train_val.prototxt: ¿½±´CAFFE/models/bvlc_alexnet/train_val.prototxt
-+ synset_words.txt: Àà±ğÃû³Æ£¬ËüÊÇilsvrc12µÄÊı¾İ£¬²Î¿¼CAFFE/data/ilsvrc12¡£
++ bvlc_alexnet.caffemodel: æ¨¡å‹å‚æ•°ï¼Œå‚è€ƒCAFFE/models/bvlc_alexnet/readme.md
++ deploy.prototxt: æ‹·è´CAFFE/models/bvlc_alexnet/deploy.prototxt
++ solver.prototxt: æ‹·è´CAFFE/models/bvlc_alexnet/solver.prototxt
++ train_val.prototxt: æ‹·è´CAFFE/models/bvlc_alexnet/train_val.prototxt
++ synset_words.txt: ç±»åˆ«åç§°ï¼Œå®ƒæ˜¯ilsvrc12çš„æ•°æ®ï¼Œå‚è€ƒCAFFE/data/ilsvrc12ã€‚
