@@ -1,5 +1,8 @@
 # Dynamic Time Warping 动态时间规整算法
 
+<script type="text/javascript"
+   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js">
+</script>
 
 DTW是衡量两个时间序列的相似度（**距离**）的方法，常用比较两个语言序列或动作序列的相似性。
 
