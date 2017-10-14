@@ -2,6 +2,7 @@
 *.obj
 *.exe
 *~
+.*.swp
 *.out
 
 # pycaffe
