@@ -10,7 +10,7 @@ int main()
     Parse(pParser, INTEGER, 12);
     Parse(pParser, PLUS, 0);
     Parse(pParser, INTEGER, 4);
-    //Parse(pParser, TIMES, 0);
+    Parse(pParser, TIMES, 0);
     Parse(pParser, INTEGER, 5);
     Parse(pParser, 0, 0);
 
